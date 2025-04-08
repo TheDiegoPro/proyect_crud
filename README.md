@@ -72,7 +72,7 @@ GET	/backend/index.php	Obtener todos los productos
 #### PUT
 
 ```http
- PUT	/backend/index.php?id=ID Actualizar un producto existente { name, price }
+PUT	/backend/index.php?id=ID Actualizar un producto existente { name, price }
 ```
 
 #### DELETE
